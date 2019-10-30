@@ -10,8 +10,14 @@ Another change
 
 An edit from Github
 
+<<<<<<< HEAD
 An edit using Git pull
 
 
 
 An edit that is added locally 
+=======
+An edit using Git pull 
+
+Change made here on github interface
+>>>>>>> fb278fd61aad2863c27c99aa24199e1791b88147
