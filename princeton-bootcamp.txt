@@ -3,6 +3,9 @@
 
 My first repository at bottcamp!
 
-Some kinf of change! 
+Some kind of change! 
 
-another change
+Another change
+
+
+An edit from Github
